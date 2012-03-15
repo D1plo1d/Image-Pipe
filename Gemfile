@@ -2,7 +2,6 @@ source "http://rubygems.org"
 
 gem 'sprite-factory', require: false
 #gem 'image_science'
-gem 'rmagick'
 
 group :development do
 	gem "shoulda", ">= 0"
